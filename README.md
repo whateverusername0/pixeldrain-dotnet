@@ -28,7 +28,7 @@ Console.WriteLine("SUCCESSFUL SUCCESS!!!");
 ```
 
 ### Bonus
-You can attack an API key, but it doesn't do anything for now, if I will ever update this repo...
+You can attach (edit: attack) an API key, but it doesn't do anything for now, if I will ever update this repo...
 ```cs
 var pdkey = new Pixeldrain.PixeldrainClient("apikeyreal");
 ```
